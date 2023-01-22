@@ -49,7 +49,6 @@ tayjaf@github: $ ./skills.sh
   <p>
       <a href="https://github.com/search?q=user%3Atayjaf+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Atayjaf+language%3Ac"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3Atayjaf+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Atayjaf+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Atayjaf+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Atayjaf+language%3Ajava"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
@@ -63,7 +62,12 @@ tayjaf@github: $ ./skills.sh
       <a href="https://github.com/search?q=user%3Atayjaf+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Atayjaf+language%3Asvg"><img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Atayjaf+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3Atayjaf+language%3AtypeScript"><img alt="Solidity" src="https://img.shields.io/badge/Solidity-363636.svg?logo=solidity&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3Atayjaf+language%3Asolidity"><img alt="Solidity" src="https://img.shields.io/badge/Solidity-363636.svg?logo=solidity&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3Atayjaf+language%3Arust"><img alt="Rust" src="https://img.shields.io/badge/Rust-000000.svg?logo=rust&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3Atayjaf+language%3AmySQL"><img alt="mySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?logo=mySQL&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3Atayjaf+language%3Aoracle"><img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000.svg?logo=oracle&logoColor=white"></a>  
+      <a href="https://github.com/search?q=user%3Atayjaf+language%3Adart"><img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2.svg?logo=dart&logoColor=white"></a>        
+
   </p>
 
   <h3>🧰 Frameworks and Libraries</h3>
