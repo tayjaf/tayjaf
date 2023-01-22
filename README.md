@@ -17,10 +17,9 @@ tayjaf@github: $ ./about.sh
     Education: ["Cybersecurity"], ["Astrophysics"]
 ```
 
-<br>
-<br>
-
-
+```bash
+tayjaf@github: $ ./socials.sh
+```
 <!-- Social icons section -->
 <p align="center">
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -32,10 +31,6 @@ tayjaf@github: $ ./about.sh
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href=""><img width="80px" alt="Email" title="Email" src="./icons8-mail.svg"/></a>
 </p>
-
-
-<br>
-<br>
 
 ```bash
 tayjaf@github: $ ./skills.sh
