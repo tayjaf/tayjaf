@@ -11,7 +11,6 @@ tayjaf@github: $ ./about.sh
     Lastname: Jafar
     Nickname: Tay
     Gender: Male
-    Age: 28
     Location: Toronto, Canada
     Hobbies: ["Photography"], ["Coding"], ["Gaming"], ["Trading"]
     Education: ["Cybersecurity"], ["Astrophysics"]
