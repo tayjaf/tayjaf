@@ -74,6 +74,7 @@ tayjaf@github: $ ./skills.sh
       <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
       <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=white"></a>
       <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B.svg?logo=flutter&logoColor=white"></a>
+      <a href="#"><img alt="SwiftUI" src="https://img.shields.io/badge/SwiftUI-F05138.svg?logo=swift&logoColor=white"></a>
       <a href="#"><img alt="SymPy" src="https://img.shields.io/badge/Sympy-3B5526.svg?logo=sympy&logoColor=white"></a>
       <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
       <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"></a>
@@ -114,10 +115,15 @@ tayjaf@github: $ ./skills.sh
       <a href="#"><img alt="Google Chrome" src="https://img.shields.io/badge/Google%20Chrome-4285F4?logo=googlechrome&logoColor=white"></a>
       <a href="#"><img alt="Tor Browser" src="https://img.shields.io/badge/Tor%20Browser-7D4698?logo=torbrowser&logoColor=white"></a>
       <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
+      <a href="#"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2.svg?logo=twitter&logoColor=white"></a>
+      <a href="#"><img alt="Twitch" src="https://img.shields.io/badge/Twitch-9146FF.svg?logo=twitch&logoColor=white"></a>
       <a href="#"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4.svg?logo=telegram&logoColor=white"></a>
       <a href="#"><img alt="Element" src="https://img.shields.io/badge/Element-0DBD8B.svg?logo=element&logoColor=white"></a>
+      <a href="#"><img alt="Matrix" src="https://img.shields.io/badge/Matrix-000000.svg?logo=matrix&logoColor=white"></a>
+      <a href="#"><img alt="Mastodon" src="https://img.shields.io/badge/Mastodon-6364FF.svg?logo=mastodon&logoColor=white"></a>
       <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
       <a href="#"><img alt="Gentoo" src="https://img.shields.io/badge/Gentoo-54487A.svg?logo=gentoo&logoColor=white"></a>
+      <a href="#"><img alt="Debian" src="https://img.shields.io/badge/Debian-A81D33.svg?logo=debian&logoColor=white"></a>
       <a href="#"><img alt="npm" src="https://img.shields.io/badge/npm-CB3837.svg?logo=npm&logoColor=white"></a>
       <a href="#"><img alt="Kali Linux" src="https://img.shields.io/badge/Kali%20Linux-557C94.svg?logo=kali%20linux&logoColor=white"></a>
       <a href="#"><img alt="Overleaf" src="https://img.shields.io/badge/Overleaf-47A141.svg?logo=overleaf&logoColor=white"></a>
@@ -136,6 +142,7 @@ tayjaf@github: $ ./skills.sh
       <a href="#"><img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=intellij%20idea&logoColor=white"></a>
       <a href="#"><img alt="VMWare" src="https://img.shields.io/badge/VMWare-607078?logo=vmware&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+      <a href="#"><img alt="XCode" src="https://img.shields.io/badge/XCode-147EFB.svg?logo=xcode&logoColor=white"></a>
   </p>
   
   
