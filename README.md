@@ -123,13 +123,29 @@ tayjaf@github: $ ./skills.sh
       <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
       <a href="#"><img alt="GNU%20Emacs" src="https://img.shields.io/badge/GNU%20Emacs-7F5AB6.svg?logo=gnu%20emacs&logoColor=white"></a>
       <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white"></a>
-      <a href="#"><img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-31A8FF?logo=photoshop&logoColor=white"></a>
-      <a href="#"><img alt="Illustrator" src="https://img.shields.io/badge/Illustrator-FF9A00?logo=illustrator&logoColor=white"></a>
+      <a href="#"><img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-31A8FF?logo=adobe%20photoshop&logoColor=white"></a>
+      <a href="#"><img alt="Notepad++" src="https://img.shields.io/badge/Notepad++-31A8FF?logo=notepadplusplus&logoColor=white"></a>
+      <a href="#"><img alt="Illustrator" src="https://img.shields.io/badge/Illustrator-FF9A00?logo=adobe%20illustrator&logoColor=white"></a>
       <a href="#"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white"></a>
       <a href="#"><img alt="4chan" src="https://img.shields.io/badge/4chan-006600?logo=4chan&logoColor=white"></a>
       <a href="#"><img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=intellij%20idea&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   </p>
+  
+  
+  <h3>🌐 Web3</h3>
+
+  <p>
+      <a href="#"><img alt="OpenSea" src="https://img.shields.io/badge/OpenSea-2081E2.svg?logo=opensea&logoColor=white"></a>
+      <a href="#"><img alt="Ethereum" src="https://img.shields.io/badge/Ethereum-3C3C3D.svg?logo=ethereum&logoColor=white"></a>
+      <a href="#"><img alt="Bitcoin" src ="https://img.shields.io/badge/Bitcoin-F7931A.svg?logo=bitcoin&logoColor=white"></a>
+      <a href="#"><img alt="Substrate" src="https://img.shields.io/badge/Substrate-282828.svg?logo=parity%20substrate&logoColor=white"></a>
+      <a href="#"><img alt="Metamask" src="https://custom-icon-badges.demolab.com/badge/Metamask-161616.svg?logo=metamask"></a>
+      <a href="#"><img alt="Web3.js" src="https://img.shields.io/badge/Web3.js-3884FF.svg?logo=web3.js&logoColor=white"></a>
+      <a href="#"><img alt="IPFS" src="https://img.shields.io/badge/IPFS-65C2CB.svg?logo=ipfs&logoColor=white"></a>
+  </p>
+  
+  
 <!-- </details> -->
 
 ```bash
