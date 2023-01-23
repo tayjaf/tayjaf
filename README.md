@@ -39,7 +39,7 @@ tayjaf@github: $ ./socials.sh
 tayjaf@github: $ ./skills.sh
 ```
 <!-- <details> -->
-  <summary><h2>🛠️ Skills</h2></summary>
+  <!-- <summary><h2>🛠️ Skills</h2></summary> -->
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
   <h3>👨‍💻 Programming and Markup Languages</h3>
@@ -75,7 +75,6 @@ tayjaf@github: $ ./skills.sh
   </p>
 
   <h3>🗄️ Databases and Cloud Hosting</h3>
-
   <p>
       <a href="#"><img alt="Cisco" src="https://img.shields.io/badge/Cisco-1BA0D7.svg?logo=cisco&logoColor=white"></a>
       <a href="#"><img alt="GitBook" src="https://img.shields.io/badge/GitBook-3884FF.svg?logo=gitbook&logoColor=white"></a>
@@ -96,7 +95,6 @@ tayjaf@github: $ ./skills.sh
   </p>
 
   <h3>💻 Software and Tools</h3>
-
   <p>
       <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
       <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
@@ -158,8 +156,6 @@ tayjaf@github: $ ./skills.sh
       <a href="#"><img alt="Substrate" src="https://img.shields.io/badge/Substrate-282828.svg?logo=parity%20substrate&logoColor=white"></a>
       <a href="#"><img alt="Web3.js" src="https://img.shields.io/badge/Web3.js-3884FF.svg?logo=web3.js&logoColor=white"></a>
   </p>
-  
-  
     
   <h3>✍️ Learning Currently</h3>
   <p>
@@ -173,55 +169,7 @@ tayjaf@github: $ ./skills.sh
     <a href="https://github.com/search?q=user%3Atayjaf+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>      
     <a href="#"><img alt="XCode" src="https://img.shields.io/badge/XCode-147EFB.svg?logo=xcode&logoColor=white"></a>
   </p>
-  
-  
 <!-- </details> -->
-
-```bash
-tayjaf@github: $ ./stats.sh
-```
-<details> 
-  <summary><h2>📊 Github Stats and Activity</h2></summary>
-
-  <h3>🔥 Streak Stats</h3>
-
-  <!-- GitHub Readme Streak Stats - https://github.com/tayjaf/github-readme-streak-stats -->
-  <p>
-    <a href="https://github.com/tayjaf/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="tayjaf's streak" src="https://streak-stats.demolab.com/?user=tayjaf&theme=monokai-metallian&hide_border=true"/>
-    </a>
-    <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
-  </p>
-
-  <h3>💻 GitHub Profile Stats</h3>
-
-  <!-- https://github.com/anuraghazra/github-readme-stats -->
-
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="tayjaf's Github Stats" src="https://tayjaf-github-readme-stats.vercel.app/api/?username=tayjaf&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="tayjaf's Top Languages" src="https://tayjaf-github-readme-stats.vercel.app/api/top-langs/?username=tayjaf&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
-  <br/>
-
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  
-  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="tayjaf's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=tayjaf&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
-  <h3>⚡ Recent GitHub Activity</h3>
-
-  <!-- https://github.com/jamesgeorge007/github-activity-readme -->
-  <!--START_SECTION:activity-->
-
-1. 🗣 Commented on [#20](https://github.com/nextcord/nextcord-ext-ipc/issues/20) in [nextcord/nextcord-ext-ipc](https://github.com/nextcord/nextcord-ext-ipc)
-2. 🎉 Merged PR [#21](https://github.com/nextcord/nextcord-ext-ipc/pull/21) in [nextcord/nextcord-ext-ipc](https://github.com/nextcord/nextcord-ext-ipc)
-3. 💪 Opened PR [#21](https://github.com/nextcord/nextcord-ext-ipc/pull/21) in [nextcord/nextcord-ext-ipc](https://github.com/nextcord/nextcord-ext-ipc)
-4. 🎉 Merged PR [#428](https://github.com/tayjaf/github-readme-streak-stats/pull/428) in [tayjaf/github-readme-streak-stats](https://github.com/tayjaf/github-readme-streak-stats)
-5. 🗣 Commented on [#76](https://github.com/tayjaf/unedit-for-reddit/issues/76) in [tayjaf/unedit-for-reddit](https://github.com/tayjaf/unedit-for-reddit)
-<!--END_SECTION:activity-->
-
-</details>
-
-
 
 ```bash
 tayjaf@github: $ neofetch
