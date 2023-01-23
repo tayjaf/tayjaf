@@ -115,6 +115,7 @@ tayjaf@github: $ ./skills.sh
       <a href="#"><img alt="Tor Browser" src="https://img.shields.io/badge/Tor%20Browser-7D4698?logo=torbrowser&logoColor=white"></a>
       <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
       <a href="#"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4.svg?logo=telegram&logoColor=white"></a>
+      <a href="#"><img alt="Element" src="https://img.shields.io/badge/Element-0DBD8B.svg?logo=element&logoColor=white"></a>
       <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
       <a href="#"><img alt="Gentoo" src="https://img.shields.io/badge/Gentoo-54487A.svg?logo=gentoo&logoColor=white"></a>
       <a href="#"><img alt="npm" src="https://img.shields.io/badge/npm-CB3837.svg?logo=npm&logoColor=white"></a>
@@ -133,6 +134,7 @@ tayjaf@github: $ ./skills.sh
       <a href="#"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white"></a>
       <a href="#"><img alt="4chan" src="https://img.shields.io/badge/4chan-006600?logo=4chan&logoColor=white"></a>
       <a href="#"><img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=intellij%20idea&logoColor=white"></a>
+      <a href="#"><img alt="VMWare" src="https://img.shields.io/badge/VMWare-607078?logo=vmware&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   </p>
   
@@ -144,9 +146,8 @@ tayjaf@github: $ ./skills.sh
       <a href="#"><img alt="Mitre Att&ck" src="https://custom-icon-badges.demolab.com/badge/Mitre%20Att&ck-161616.svg?logo=mitre"></a>
       <a href="#"><img alt="NIST SP 800-53" src="https://custom-icon-badges.demolab.com/badge/NIST%20SP%20800--53-161616.svg?logo=nist"></a>
       <a href="#"><img alt="ProDiscover" src="https://custom-icon-badges.demolab.com/badge/ProDiscover-161616.svg?logo=prodiscover&logoColor=white"></a>
+      <a href="#"><img alt="nmap" src="https://custom-icon-badges.demolab.com/badge/nmap-161616.svg?logo=nmap&logoColor=white"></a>
       <a href="#"><img alt="FireEye Redline" src="https://custom-icon-badges.demolab.com/badge/FireEye%20RedLine-161616.svg?logo=fireye_redline&logoColor=white"></a>
-      <a href="#"><img alt="Web3.js" src="https://img.shields.io/badge/Web3.js-3884FF.svg?logo=web3.js&logoColor=white"></a>
-      <a href="#"><img alt="IPFS" src="https://img.shields.io/badge/IPFS-65C2CB.svg?logo=ipfs&logoColor=white"></a>
   </p>
     
   
@@ -160,6 +161,8 @@ tayjaf@github: $ ./skills.sh
       <a href="#"><img alt="Metamask" src="https://custom-icon-badges.demolab.com/badge/Metamask-161616.svg?logo=metamask"></a>
       <a href="#"><img alt="Web3.js" src="https://img.shields.io/badge/Web3.js-3884FF.svg?logo=web3.js&logoColor=white"></a>
       <a href="#"><img alt="IPFS" src="https://img.shields.io/badge/IPFS-65C2CB.svg?logo=ipfs&logoColor=white"></a>
+      <a href="#"><img alt="MythX" src="https://custom-icon-badges.demolab.com/badge/MythX-3588ca.svg?logo=mythx&logoColor=white"></a>
+
   </p>
   
   
