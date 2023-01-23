@@ -72,7 +72,8 @@ tayjaf@github: $ ./skills.sh
       <a href="#"><img alt="Telegram.py" src="https://custom-icon-badges.demolab.com/badge/Telegram.py-26A5E4.svg?logo=telegram"></a>
       <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
       <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
-      <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+      <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=white"></a>
+      <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B.svg?logo=flutter&logoColor=white"></a>
       <a href="#"><img alt="SymPy" src="https://img.shields.io/badge/Sympy-3B5526.svg?logo=sympy&logoColor=white"></a>
       <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
       <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"></a>
@@ -98,6 +99,7 @@ tayjaf@github: $ ./skills.sh
       <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
       <a href="#"><img alt="Linode" src="https://img.shields.io/badge/Linode-00A95C.svg?logo=linode&logoColor=white"></a>
       <a href="#"><img alt="Cisco" src="https://img.shields.io/badge/Cisco-1BA0D7.svg?logo=cisco&logoColor=white"></a>
+      <a href="#"><img alt="NGINX" src="https://img.shields.io/badge/NGINX-009639.svg?logo=nginx&logoColor=white"></a>
   </p>
 
   <h3>💻 Software and Tools</h3>
@@ -115,12 +117,14 @@ tayjaf@github: $ ./skills.sh
       <a href="#"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4.svg?logo=telegram&logoColor=white"></a>
       <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
       <a href="#"><img alt="Gentoo" src="https://img.shields.io/badge/Gentoo-54487A.svg?logo=gentoo&logoColor=white"></a>
+      <a href="#"><img alt="npm" src="https://img.shields.io/badge/npm-CB3837.svg?logo=npm&logoColor=white"></a>
       <a href="#"><img alt="Kali Linux" src="https://img.shields.io/badge/Kali%20Linux-557C94.svg?logo=kali%20linux&logoColor=white"></a>
       <a href="#"><img alt="Overleaf" src="https://img.shields.io/badge/Overleaf-47A141.svg?logo=overleaf&logoColor=white"></a>
       <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
       <a href="#"><img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft%20Office-D83B01.svg?logo=microsoft%20office&logoColor=white"></a>
       <a href="#"><img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC.svg?logo=Jira&logoColor=white"></a>
       <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
+      <a href="#"><img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-1679A7.svg?logo=wireshark&logoColor=white"></a>
       <a href="#"><img alt="GNU%20Emacs" src="https://img.shields.io/badge/GNU%20Emacs-7F5AB6.svg?logo=gnu%20emacs&logoColor=white"></a>
       <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white"></a>
       <a href="#"><img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-31A8FF?logo=adobe%20photoshop&logoColor=white"></a>
@@ -132,6 +136,19 @@ tayjaf@github: $ ./skills.sh
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   </p>
   
+  
+  <h3>🌐 Security</h3>
+
+  <p>
+      <a href="#"><img alt="OWASP" src="https://img.shields.io/badge/OWASP-000000.svg?logo=owasp&logoColor=white"></a>
+      <a href="#"><img alt="Mitre Att&ck" src="https://custom-icon-badges.demolab.com/badge/Mitre%20Att&ck-161616.svg?logo=mitre"></a>
+      <a href="#"><img alt="NIST SP 800-53" src="https://custom-icon-badges.demolab.com/badge/NIST%20SP%20800--53-161616.svg?logo=nist"></a>
+      <a href="#"><img alt="Substrate" src="https://img.shields.io/badge/Substrate-282828.svg?logo=parity%20substrate&logoColor=white"></a>
+      <a href="#"><img alt="Metamask" src="https://custom-icon-badges.demolab.com/badge/Metamask-161616.svg?logo=metamask"></a>
+      <a href="#"><img alt="Web3.js" src="https://img.shields.io/badge/Web3.js-3884FF.svg?logo=web3.js&logoColor=white"></a>
+      <a href="#"><img alt="IPFS" src="https://img.shields.io/badge/IPFS-65C2CB.svg?logo=ipfs&logoColor=white"></a>
+  </p>
+    
   
   <h3>🌐 Web3</h3>
 
