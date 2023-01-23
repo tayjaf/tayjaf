@@ -130,7 +130,6 @@ tayjaf@github: $ ./skills.sh
       <a href="#"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2.svg?logo=twitter&logoColor=white"></a>
       <a href="#"><img alt="VMWare" src="https://img.shields.io/badge/VMWare-607078?logo=vmware&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-      <a href="#"><img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-1679A7.svg?logo=wireshark&logoColor=white"></a>
       <a href="#"><img alt="4chan" src="https://img.shields.io/badge/4chan-006600?logo=4chan&logoColor=white"></a>
   </p>
   
@@ -143,6 +142,7 @@ tayjaf@github: $ ./skills.sh
     <a href="#"><img alt="nmap" src="https://custom-icon-badges.demolab.com/badge/nmap-161616.svg?logo=nmap&logoColor=white"></a>
     <a href="#"><img alt="OWASP" src="https://img.shields.io/badge/OWASP-000000.svg?logo=owasp&logoColor=white"></a>  
     <a href="#"><img alt="ProDiscover" src="https://custom-icon-badges.demolab.com/badge/ProDiscover-161616.svg?logo=prodiscover&logoColor=white"></a>
+    <a href="#"><img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-1679A7.svg?logo=wireshark&logoColor=white"></a>
   </p>
     
   
