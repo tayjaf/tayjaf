@@ -15,8 +15,6 @@ tayjaf@github: $ ./about.sh
     Education: ["Cybersecurity"], ["Astrophysics"]
     Occupation: ["Student"]
     Previous: ["Cybersecurity Analyst"], ["DevSecOps"]
-    
-    
 ```
 
 <br>
