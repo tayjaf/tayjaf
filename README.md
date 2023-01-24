@@ -14,6 +14,7 @@ tayjaf@github: $ ./about.sh
     School: ["Sheridan College"], ["Queen's University"]
     Education: ["Cybersecurity"], ["Astrophysics"]
     Occupation: ["Student"]
+    Previous: ["Cybersecurity Analyst"], ["DevSecOps"]
     
     
 ```
