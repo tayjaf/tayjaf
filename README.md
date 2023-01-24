@@ -54,6 +54,7 @@ tayjaf@github: $ ./skills.sh
       <a href="https://github.com/search?q=user%3Atayjaf+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Atayjaf+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Atayjaf+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3Atayjaf+language%3Arust"><img alt="Rust" src="https://img.shields.io/badge/Rust-000000.svg?logo=rust&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Atayjaf+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Atayjaf+language%3Asvg"><img alt="SVG+XML" src="https://custom-icon-badges.demolab.com/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white"></a>
   </p>
@@ -171,7 +172,6 @@ tayjaf@github: $ ./skills.sh
     <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B.svg?logo=flutter&logoColor=white"></a>
     <a href="#"><img alt="GNU%20Emacs" src="https://img.shields.io/badge/GNU%20Emacs-7F5AB6.svg?logo=gnu%20emacs&logoColor=white"></a>
     <a href="#"><img alt="IPFS" src="https://img.shields.io/badge/IPFS-65C2CB.svg?logo=ipfs&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Atayjaf+language%3Arust"><img alt="Rust" src="https://img.shields.io/badge/Rust-000000.svg?logo=rust&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Atayjaf+language%3Asolidity"><img alt="Solidity" src="https://img.shields.io/badge/Solidity-363636.svg?logo=solidity&logoColor=white"></a>
     <a href="#"><img alt="SwiftUI" src="https://img.shields.io/badge/SwiftUI-F05138.svg?logo=swift&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Atayjaf+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>      
