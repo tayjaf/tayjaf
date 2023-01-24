@@ -150,7 +150,7 @@ tayjaf@github: $ ./skills.sh
   <p>
       <a href="#"><img alt="Bitcoin" src ="https://img.shields.io/badge/Bitcoin-F7931A.svg?logo=bitcoin&logoColor=white"></a>
       <a href="#"><img alt="Ethereum" src="https://img.shields.io/badge/Ethereum-3C3C3D.svg?logo=ethereum&logoColor=white"></a>
-      <a href="#"><img alt="Metamask" src="https://custom-icon-badges.demolab.com/badge/Metamask-161616.svg?logo=metamask"></a>
+      <a href="#"><img alt="Metamask" src="https://custom-icon-badges.demolab.com/badge/Metamask-161616.svg?logo=metamask-white"></a>
       <a href="#"><img alt="MythX" src="https://custom-icon-badges.demolab.com/badge/MythX-3588ca.svg?logo=mythx&logoColor=white"></a>
       <a href="#"><img alt="OpenSea" src="https://img.shields.io/badge/OpenSea-2081E2.svg?logo=opensea&logoColor=white"></a>
       <a href="#"><img alt="Substrate" src="https://img.shields.io/badge/Substrate-282828.svg?logo=parity%20substrate&logoColor=white"></a>
