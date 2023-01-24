@@ -135,13 +135,13 @@ tayjaf@github: $ ./skills.sh
   <h3>🛡️ Security</h3>
   <p>
     <a href="#"><img alt="Cisco" src="https://img.shields.io/badge/Cisco-1BA0D7.svg?logo=cisco&logoColor=white"></a>
-    <a href="#"><img alt="FireEye Redline" src="https://custom-icon-badges.demolab.com/badge/FireEye%20RedLine-161616.svg?logo=fireye_redline&logoColor=white"></a>
+    <a href="#"><img alt="FireEye Redline" src="https://custom-icon-badges.demolab.com/badge/FireEye%20RedLine-cc1b26.svg?logo=fireye_redline&logoColor=white"></a>
     <a href="#"><img alt="Kali Linux" src="https://img.shields.io/badge/Kali%20Linux-557C94.svg?logo=kali%20linux&logoColor=white"></a>
-    <a href="#"><img alt="Mitre Att&ck" src="https://custom-icon-badges.demolab.com/badge/Mitre%20Att&ck-161616.svg?logo=mitre"></a>
-    <a href="#"><img alt="NIST SP 800-53" src="https://custom-icon-badges.demolab.com/badge/NIST%20SP%20800--53-161616.svg?logo=nist"></a>
+    <a href="#"><img alt="Mitre Att&ck" src="https://custom-icon-badges.demolab.com/badge/Mitre%20Att&ck-c63f1f.svg?logo=mitre"></a>
+    <a href="#"><img alt="NIST SP 800-53" src="https://custom-icon-badges.demolab.com/badge/NIST%20SP%20800--53-0241bc.svg?logo=nist"></a>
     <a href="#"><img alt="nmap" src="https://custom-icon-badges.demolab.com/badge/nmap-161616.svg?logo=nmap&logoColor=white"></a>
     <a href="#"><img alt="OWASP" src="https://img.shields.io/badge/OWASP-000000.svg?logo=owasp&logoColor=white"></a>  
-    <a href="#"><img alt="ProDiscover" src="https://custom-icon-badges.demolab.com/badge/ProDiscover-161616.svg?logo=prodiscover&logoColor=white"></a>
+    <a href="#"><img alt="ProDiscover" src="https://custom-icon-badges.demolab.com/badge/ProDiscover-ea2427.svg?logo=prodiscover&logoColor=white"></a>
     <a href="#"><img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-1679A7.svg?logo=wireshark&logoColor=white"></a>
   </p>
     
