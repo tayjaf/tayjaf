@@ -76,7 +76,6 @@ tayjaf@github: $ ./skills.sh
 
   <h3>🗄️ Databases and Cloud Hosting</h3>
   <p>
-      <a href="#"><img alt="Cisco" src="https://img.shields.io/badge/Cisco-1BA0D7.svg?logo=cisco&logoColor=white"></a>
       <a href="#"><img alt="GitBook" src="https://img.shields.io/badge/GitBook-3884FF.svg?logo=gitbook&logoColor=white"></a>
       <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
       <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
@@ -136,6 +135,7 @@ tayjaf@github: $ ./skills.sh
   
   <h3>🛡️ Security</h3>
   <p>
+    <a href="#"><img alt="Cisco" src="https://img.shields.io/badge/Cisco-1BA0D7.svg?logo=cisco&logoColor=white"></a>
     <a href="#"><img alt="FireEye Redline" src="https://custom-icon-badges.demolab.com/badge/FireEye%20RedLine-161616.svg?logo=fireye_redline&logoColor=white"></a>
     <a href="#"><img alt="Mitre Att&ck" src="https://custom-icon-badges.demolab.com/badge/Mitre%20Att&ck-161616.svg?logo=mitre"></a>
     <a href="#"><img alt="NIST SP 800-53" src="https://custom-icon-badges.demolab.com/badge/NIST%20SP%20800--53-161616.svg?logo=nist"></a>
