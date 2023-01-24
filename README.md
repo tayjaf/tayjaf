@@ -112,7 +112,6 @@ tayjaf@github: $ ./skills.sh
       <a href="#"><img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=intellij%20idea&logoColor=white"></a>
       <a href="#"><img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC.svg?logo=Jira&logoColor=white"></a>
       <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
-      <a href="#"><img alt="Kali Linux" src="https://img.shields.io/badge/Kali%20Linux-557C94.svg?logo=kali%20linux&logoColor=white"></a>
       <a href="#"><img alt="KeePassXC" src="https://img.shields.io/badge/KeePassXC-6CAC4D?logo=keepassxc&logoColor=white"></a>
       <a href="#"><img alt="Mastodon" src="https://img.shields.io/badge/Mastodon-6364FF.svg?logo=mastodon&logoColor=white"></a>
       <a href="#"><img alt="Matrix" src="https://img.shields.io/badge/Matrix-000000.svg?logo=matrix&logoColor=white"></a>
@@ -137,6 +136,7 @@ tayjaf@github: $ ./skills.sh
   <p>
     <a href="#"><img alt="Cisco" src="https://img.shields.io/badge/Cisco-1BA0D7.svg?logo=cisco&logoColor=white"></a>
     <a href="#"><img alt="FireEye Redline" src="https://custom-icon-badges.demolab.com/badge/FireEye%20RedLine-161616.svg?logo=fireye_redline&logoColor=white"></a>
+    <a href="#"><img alt="Kali Linux" src="https://img.shields.io/badge/Kali%20Linux-557C94.svg?logo=kali%20linux&logoColor=white"></a>
     <a href="#"><img alt="Mitre Att&ck" src="https://custom-icon-badges.demolab.com/badge/Mitre%20Att&ck-161616.svg?logo=mitre"></a>
     <a href="#"><img alt="NIST SP 800-53" src="https://custom-icon-badges.demolab.com/badge/NIST%20SP%20800--53-161616.svg?logo=nist"></a>
     <a href="#"><img alt="nmap" src="https://custom-icon-badges.demolab.com/badge/nmap-161616.svg?logo=nmap&logoColor=white"></a>
