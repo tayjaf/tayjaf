@@ -179,11 +179,12 @@ tayjaf@github: $ ./skills.sh
   
 <!-- </details> -->
 
-```bash
+```graphql
 tayjaf@github: $ neofetch
 ```
 
-```yaml
+<!--
+```jsonc
                     'c.          tayjaf@localhost.localdomain 
                  ,xNMM.          --------------------------------- 
                .OMMMMo           OS: macOS 13.1 22C65 arm64 
@@ -203,7 +204,7 @@ tayjaf@github: $ neofetch
        .cooc,.    .,coo:.        Memory: 5841MiB / 65536MiB                                                                            
 ```
 
-
+-->
 
 
 
