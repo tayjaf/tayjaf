@@ -24,7 +24,7 @@ tayjaf@github: $ ./socials.sh
 <!-- Social icons section -->
 <p align="center">
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="twitter.com/tay_jaf"><img width="80px" alt="Twitter" title="Twitter" src="./icons8-twitter-circled.svg"/></a>
+  <a href="https://www.twitter.com/tay_jaf"><img width="80px" alt="Twitter" title="Twitter" src="./icons8-twitter-circled.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://t.me/tayjaf" alt="Telegram" title="Telegram"><img width="80px" src="./icons8-telegram-app.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
