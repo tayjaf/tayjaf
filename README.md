@@ -14,7 +14,8 @@ tayjaf@github: $ ./about.sh
     School: ["Sheridan College"], ["Queen's University"]
     Education: ["Cybersecurity"], ["Astrophysics"]
     Occupation: ["Student"]
-    Previous: ["Cybersecurity Analyst"], ["DevSecOps"]
+    
+    
 ```
 
 <br>
@@ -54,7 +55,6 @@ tayjaf@github: $ ./skills.sh
       <a href="https://github.com/search?q=user%3Atayjaf+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Atayjaf+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Atayjaf+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3Atayjaf+language%3Arust"><img alt="Rust" src="https://img.shields.io/badge/Rust-000000.svg?logo=rust&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Atayjaf+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Atayjaf+language%3Asvg"><img alt="SVG+XML" src="https://custom-icon-badges.demolab.com/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white"></a>
   </p>
@@ -172,6 +172,7 @@ tayjaf@github: $ ./skills.sh
     <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B.svg?logo=flutter&logoColor=white"></a>
     <a href="#"><img alt="GNU%20Emacs" src="https://img.shields.io/badge/GNU%20Emacs-7F5AB6.svg?logo=gnu%20emacs&logoColor=white"></a>
     <a href="#"><img alt="IPFS" src="https://img.shields.io/badge/IPFS-65C2CB.svg?logo=ipfs&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Atayjaf+language%3Arust"><img alt="Rust" src="https://img.shields.io/badge/Rust-000000.svg?logo=rust&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Atayjaf+language%3Asolidity"><img alt="Solidity" src="https://img.shields.io/badge/Solidity-363636.svg?logo=solidity&logoColor=white"></a>
     <a href="#"><img alt="SwiftUI" src="https://img.shields.io/badge/SwiftUI-F05138.svg?logo=swift&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Atayjaf+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>      
@@ -184,26 +185,7 @@ tayjaf@github: $ ./skills.sh
 tayjaf@github: $ neofetch
 ```
 
-```csharp
-    tayjaf@localhost.localdomain
-    ------------------------------------------
-    OS: Gentoo Linux x86_64                       OS: macOS 13.1 22C65 arm64 
-    Host: Lemur Pro lemp10                        Host: MacBookPro18,4 
-    Kernel: 5.15.19-gentoo-x86_64                 Kernel: 22.2.0 
-    Packages: 869 (emerge)                        Packages: 31 (brew) 
-    Shell: bash 5.1.16                            Shell: zsh 5.8.1 
-    Resolution: 1920x1080                         Resolution: 3024x1964 (Retina)
-    DE: GNOME 42.4                                DE: Aqua 
-    WM: Mutter                                    WM: Quartz Compositor 
-    WM Theme: Adwaita [GTK2/3]                    WM Theme: Blue (Dark) 
-    Terminal: gnome-terminal                      Terminal: Apple_Terminal 
-    CPU: 11th Gen Intel i7-1165G7 (8)             CPU: Apple M1 Max 
-    GPU: Intel TigerLake-LP GT2                   GPU: Apple M1 Max 
-    Memory:  3238MiB / 39973MiB                   Memory: 5841MiB / 65536MiB     
-```
-
-
-```csharp
+```yaml
                     'c.          tayjaf@localhost.localdomain 
                  ,xNMM.          --------------------------------- 
                .OMMMMo           OS: macOS 13.1 22C65 arm64 
@@ -226,17 +208,6 @@ tayjaf@github: $ neofetch
 
 
 
-<!--
-**tayjaf/tayjaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
