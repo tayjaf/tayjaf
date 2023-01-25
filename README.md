@@ -1,10 +1,10 @@
-```bash
+```graphql
 tayjaf@github: $ ./about.sh
 ```
 
 <img align="left" src="smallprof.jpg" height="229px"/>
 
-```csharp
+```coffee
     tayjaf@github
     ------------------------------------------
     Name: Tayyab Jafar
@@ -14,13 +14,11 @@ tayjaf@github: $ ./about.sh
     School: ["Sheridan College"], ["Queen's University"]
     Education: ["Cybersecurity"], ["Astrophysics"]
     Occupation: ["Student"]
-    
-    
+    Previous: ["Cybersecurity Analyst"], ["DevSecOps"], ["Writer"], ["Technical Support"]  
 ```
-
 <br>
 
-```bash
+```graphql
 tayjaf@github: $ ./socials.sh
 ```
 <!-- Social icons section -->
@@ -35,7 +33,7 @@ tayjaf@github: $ ./socials.sh
   <a href=""><img width="80px" alt="Email" title="Email" src="./icons8-mail.svg"/></a>
 </p>
     
-```bash
+```graphql
 tayjaf@github: $ ./skills.sh
 ```
 <!-- <details> -->
