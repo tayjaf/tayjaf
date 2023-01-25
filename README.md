@@ -24,13 +24,13 @@ tayjaf@github: $ ./socials.sh
 <!-- Social icons section -->
 <p align="center">
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href=""><img width="80px" alt="Twitter" title="Twitter" src="./icons8-twitter-circled.svg"/></a>
+  <a href="twitter.com/tay_jaf"><img width="80px" alt="Twitter" title="Twitter" src="./icons8-twitter-circled.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="" alt="Discord" title="Telegram"><img width="80px" src="./icons8-telegram-app.svg"/></a>
+  <a href="https://t.me/tayjaf" alt="Telegram" title="Telegram"><img width="80px" src="./icons8-telegram-app.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href=""><img width="80px" alt="LinkedIn" title="LinkedIn" src="./icons8-linkedin.svg"></a>
+  <a href="https://www.linkedin.com/in/tayyabjafar/"><img width="80px" alt="LinkedIn" title="LinkedIn" src="./icons8-linkedin.svg"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href=""><img width="80px" alt="Email" title="Email" src="./icons8-mail.svg"/></a>
+  <a href="mailto:tayyabjafar@hotmail.com"><img width="80px" alt="Email" title="Email" src="./icons8-mail.svg"/></a>
 </p>
     
 ```graphql
