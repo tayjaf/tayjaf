@@ -1,5 +1,5 @@
 ```graphql
-tayjaf@github: $ ./about.sh
+tayjaf@github: $ ./about-wip.sh #work in progress
 ```
 
 <img align="left" src="smallprof.jpg" height="229px"/>
