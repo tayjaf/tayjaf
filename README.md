@@ -2,8 +2,8 @@
 tayjaf@github: $ ./about-wip.sh #work in progress
 ```
 
-<img align="left" src="smallprof.jpg" height="229px"/>
-
+<!-- <img align="left" src="smallprof.jpg" height="229px"/>
+ -->
 ```coffee
     tayjaf@github
     ------------------------------------------
