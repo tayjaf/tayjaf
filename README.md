@@ -179,9 +179,9 @@ tayjaf@github: $ ./skills.sh
   
 <!-- </details> -->
 
-```graphql
+<!--```graphql
 tayjaf@github: $ neofetch
-```
+``` -->
 
 <!--
 ```jsonc
