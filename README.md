@@ -14,7 +14,8 @@ tayjaf@github: $ ./about-wip.sh #work in progress
     School: ["Sheridan College"], ["Queen's University"]
     Education: ["Cybersecurity"], ["Astrophysics"]
     Occupation: ["Student"]
-    Previous: ["Cybersecurity Analyst"], ["DevSecOps"], ["Writer"], ["Technical Support"], ["Community Manager"]
+    Previous: ["Cybersecurity Analyst"], ["DevSecOps"], ["Writer"], 
+              ["Technical Support"], ["Community Manager"]
 ```
 <br>
 
