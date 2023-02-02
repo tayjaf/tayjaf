@@ -1,5 +1,5 @@
 ```graphql
-tayjaf@github: $ ./about-wip.sh #work in progress
+tayjaf@github: $ ./about-wip.sh
 ```
 
 <!-- <img align="left" src="smallprof.jpg" height="229px"/>
@@ -16,6 +16,7 @@ tayjaf@github: $ ./about-wip.sh #work in progress
     Occupation: ["Student"]
     Previous: ["Cybersecurity Analyst"], ["DevSecOps"], ["Writer"], 
               ["Technical Support"], ["Community Manager"]
+
 ```
 <br>
 
@@ -183,30 +184,6 @@ tayjaf@github: $ ./skills.sh
 <!--```graphql
 tayjaf@github: $ neofetch
 ``` -->
-
-<!--
-```jsonc
-                    'c.          tayjaf@localhost.localdomain 
-                 ,xNMM.          --------------------------------- 
-               .OMMMMo           OS: macOS 13.1 22C65 arm64 
-               OMMM0,            Host: MacBookPro18,4 
-     .;loddo:' loolloddol;.      Kernel: 22.2.0 
-   cKMMMMMMMMMMNWMMMMMMMMMM0:    Uptime: 3 days, 1 hour, 50 mins 
- .KMMMMMMMMMMMMMMMMMMMMMMMWd.    Packages: 31 (brew) 
- XMMMMMMMMMMMMMMMMMMMMMMMX.      Shell: zsh 5.8.1 
-;MMMMMMMMMMMMMMMMMMMMMMMM:       Resolution: 1512x982 
-:MMMMMMMMMMMMMMMMMMMMMMMM:       DE: Aqua 
-.MMMMMMMMMMMMMMMMMMMMMMMMX.      WM: Quartz Compositor 
- kMMMMMMMMMMMMMMMMMMMMMMMMWd.    WM Theme: Blue (Dark) 
- .XMMMMMMMMMMMMMMMMMMMMMMMMMMk   Terminal: Apple_Terminal 
-  .XMMMMMMMMMMMMMMMMMMMMMMMMK.   Terminal Font: SFMono-Regular 
-    kMMMMMMMMMMMMMMMMMMMMMMd     CPU: Apple M1 Max 
-     ;KMMMMMMMWXXWMMMMMMMk.      GPU: Apple M1 Max 
-       .cooc,.    .,coo:.        Memory: 5841MiB / 65536MiB                                                                            
-```
-
--->
-
 
 
 
