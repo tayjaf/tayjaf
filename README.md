@@ -59,8 +59,8 @@ tayjaf@github: $ ./skills.sh
       <a href="https://github.com/search?q=user%3Atayjaf+language%3Asvg"><img alt="SVG+XML" src="https://custom-icon-badges.demolab.com/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white"></a>
   </p>
 
-<details>
-    <summary><h3>🧰 Frameworks and Libraries</h3></summary>
+<!-- <details> -->
+ <h3>🧰 Frameworks and Libraries</h3>
   <p>
       <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
       <a href="#"><img alt="Discord.py" src="https://img.shields.io/badge/Discord.py-5865F2.svg?logo=discord&logoColor=white"></a>
@@ -74,10 +74,12 @@ tayjaf@github: $ ./skills.sh
       <a href="#"><img alt="Telegram.py" src="https://img.shields.io/badge/Telegram.py-26A5E4.svg?logo=telegram&logoColor=white"></a>
       <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
   </p>
-    </details>
+<!--     </details> -->
 
-<details>
-    <summary><h3>🗄️ Databases and Cloud Hosting</h3></summary>
+<!-- <details> -->
+<!--     <summary> -->
+ <h3>🗄️ Databases and Cloud Hosting</h3>
+<!-- </summary> -->
   <p>
       <a href="#"><img alt="GitBook" src="https://img.shields.io/badge/GitBook-3884FF.svg?logo=gitbook&logoColor=white"></a>
       <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
@@ -95,10 +97,12 @@ tayjaf@github: $ ./skills.sh
       <a href="#"><img alt="Substack" src="https://img.shields.io/badge/Substack-FF6719.svg?logo=substack&logoColor=white"></a>
       <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
   </p>
-    </details>
-
-<details>
-    <summary><h3>💻 Software and Tools</h3></summary>
+<!--     </details>
+ -->
+<!-- <details> -->
+<!--     <summary> -->
+ <h3>💻 Software and Tools</h3>
+<!-- </summary> -->
   <p>
       <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
       <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
@@ -134,10 +138,12 @@ tayjaf@github: $ ./skills.sh
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
       <a href="#"><img alt="4chan" src="https://img.shields.io/badge/4chan-006600?logo=4chan&logoColor=white"></a>
   </p>
-    </details>
-  
-  <details>
-  <summary><h3>🛡️ Security</h3></summary>
+<!--     </details>
+   -->
+<!--   <details> -->
+<!--   <summary> -->
+ <h3>🛡️ Security</h3>
+<!--  </summary> -->
   <p>
     <a href="#"><img alt="Cisco" src="https://img.shields.io/badge/Cisco-1BA0D7.svg?logo=cisco&logoColor=white"></a>
     <a href="#"><img alt="FireEye Redline" src="https://custom-icon-badges.demolab.com/badge/FireEye%20RedLine-cc1b26.svg?logo=fireye_redline&logoColor=white"></a>
@@ -149,10 +155,12 @@ tayjaf@github: $ ./skills.sh
     <a href="#"><img alt="ProDiscover" src="https://custom-icon-badges.demolab.com/badge/ProDiscover-ea2427.svg?logo=prodiscover&logoColor=white"></a>
     <a href="#"><img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-1679A7.svg?logo=wireshark&logoColor=white"></a>
   </p>
-   </details> 
-  
-  <details>
-      <summary><h3>🌐 Web3</h3></summary>
+<!--    </details> 
+   -->
+<!--   <details> -->
+<!--       <summary> -->
+ <h3>🌐 Web3</h3>
+<!--  </summary> -->
       <p>
           <a href="#"><img alt="Bitcoin" src ="https://img.shields.io/badge/Bitcoin-F7931A.svg?logo=bitcoin&logoColor=white"></a>
           <a href="#"><img alt="Ethereum" src="https://img.shields.io/badge/Ethereum-3C3C3D.svg?logo=ethereum&logoColor=white"></a>
@@ -162,8 +170,8 @@ tayjaf@github: $ ./skills.sh
           <a href="#"><img alt="Substrate" src="https://img.shields.io/badge/Substrate-282828.svg?logo=parity%20substrate&logoColor=white"></a>
           <a href="#"><img alt="Web3.js" src="https://img.shields.io/badge/Web3.js-3884FF.svg?logo=web3.js&logoColor=white"></a>
       </p>
-    </details>
-    
+<!--     </details>
+     -->
     
   <h3>✍️ Learning Currently</h3>
   <p>
